@@ -260,7 +260,7 @@ a:focus {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0);
     z-index: 1;
 }
 
@@ -290,7 +290,7 @@ a:focus {
 }
 
 .carousel .carousel-text h1 span {
-    color: #f90553;
+    color: #d4d4d4;
 }
 
 .carousel .carousel-text p {
@@ -302,8 +302,8 @@ a:focus {
 
 .carousel .carousel-btn .btn:last-child {
     margin-left: 10px;
-    background: #f90553;
-    border-color: #f90553;
+    background: #000000;
+    border-color: #000000;
 }
 
 .carousel .carousel-btn .btn:last-child:hover {
